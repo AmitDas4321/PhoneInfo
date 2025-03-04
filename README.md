@@ -12,7 +12,6 @@ PhoneInfo is essential for users who want to retrieve phone number details conve
 - **Quick Lookup** 🔍: Instantly fetch name and location details.
 - **Simple to Use** ✅: Just enter a phone number and get results in seconds.
 - **Interactive Interface** 💻: Clean terminal-based UI with an animated loading effect.
-- **Reliable API Integration** 🌐: Ensures accurate data retrieval.
 
 Follow these steps to clone the repository and set up the environment:
 
