@@ -42,7 +42,7 @@ Here are some screenshots of the script in action:
 
 **2️⃣ Retrieved phone number details**
 
-![Phone Info Output](https://i.ibb.co/s9jMTmqc/Retrieved-phone-number-details.png)
+![Phone Info Output](https://camo.githubusercontent.com/b55c705053ca7c4f99f469f1293e662b883165b508272e8fef0db37f8c0f5c79/68747470733a2f2f692e6962622e636f2f73396a4d546d71632f5265747269657665642d70686f6e652d6e756d6265722d64657461696c732e706e67)
 
 ## Usage 🔧
 
