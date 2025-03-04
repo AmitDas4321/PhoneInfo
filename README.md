@@ -46,7 +46,7 @@ Here are some screenshots of the script in action:
 
 ## Usage 🔧
 
-Once the installation is complete, you can use the `phone_info.py` script to retrieve phone details.
+Once the installation is complete, you can use the `setup.py` script to retrieve phone details.
 
 ### 1. Running the Script ▶️
 
