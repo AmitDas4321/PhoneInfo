@@ -38,7 +38,7 @@ Here are some screenshots of the script in action:
 
 **1️⃣ Running the script and fetching details**
 
-![Running the script](https://i.ibb.co/M5yLV1yCfsacrypt-code.png)
+![Running the script](https://i.ibb.co/n86tkdW2/Running-the-script-and-fetching-details.png)
 
 **2️⃣ Retrieved phone number details**
 
