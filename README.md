@@ -53,7 +53,7 @@ Once the installation is complete, you can use the `phone_info.py` script to ret
 To start the script, simply run:
 
 ```bash
-python3 phone_info.py
+python3 setup.py
 ```
 
 ### 2. How to Use the Script 📝
