@@ -1,6 +1,6 @@
 # PhoneInfo Lookup Tool 📞
 
-![Hero_image](https://i.ibb.co/yBVQ695t/Stackposts.png)
+![Hero_image](https://i.ibb.co/zh3RSdVV/Phone-Info.png)
 
 ## Overview
 
