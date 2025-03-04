@@ -39,11 +39,11 @@ Here are some screenshots of the script in action:
 
 **1️⃣ Running the script and fetching details**
 
-![Running the script](https://i.ibb.co/M5yLV1yC/Running-the-script-and-Encrypt-code.png)
+![Running the script](https://i.ibb.co/M5yLV1yCfsacrypt-code.png)
 
 **2️⃣ Retrieved phone number details**
 
-![Phone Info Output](https://i.ibb.co/ccmkTtNy/Encrypted-Script.png)
+![Phone Info Output](https://i.ibb.co/ccmkfasfed-Script.png)
 
 ## Usage 🔧
 
