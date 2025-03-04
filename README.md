@@ -38,7 +38,7 @@ Here are some screenshots of the script in action:
 
 **1️⃣ Running the script and fetching details**
 
-![Running the script](https://i.ibb.co/n86tkdW2/Running-the-script-and-fetching-details.png)
+![Running the script](https://camo.githubusercontent.com/088e5f15edcebd2c9f380f0eae0b1e32ee56170c5ade2188420f02d4f07159ea/68747470733a2f2f692e6962622e636f2f6e3836746b6457322f52756e6e696e672d7468652d7363726970742d616e642d6665746368696e672d64657461696c732e706e67)
 
 **2️⃣ Retrieved phone number details**
 
