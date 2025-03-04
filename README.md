@@ -60,14 +60,14 @@ Carrier    : Airtel
 
 ## Usage 🔧
 
-Once the installation is complete, you can use the `phone_info.py` script to retrieve phone details.
+Once the installation is complete, you can use the `setup.py` script to retrieve phone details.
 
 ### 1. Running the Script ▶️
 
 To start the script, simply run:
 
 ```bash
-python3 phone_info.py
+python3 setup.py
 ```
 
 ### 2. How to Use the Script 📝
