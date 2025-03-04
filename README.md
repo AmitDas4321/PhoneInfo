@@ -12,6 +12,7 @@ PhoneInfo is essential for users who want to retrieve phone number details conve
 - **Quick Lookup** 🔍: Instantly fetch name and location details.
 - **Simple to Use** ✅: Just enter a phone number and get results in seconds.
 - **Interactive Interface** 💻: Clean terminal-based UI with an animated loading effect.
+- **Reliable API Integration** 🌐: Ensures accurate data retrieval.
 
 Follow these steps to clone the repository and set up the environment:
 
@@ -38,22 +39,35 @@ Here are some screenshots of the script in action:
 
 **1️⃣ Running the script and fetching details**
 
-![Running the script](https://i.ibb.co/M5yLV1yC/Running-the-script-and-Encrypt-code.png)
-
-**2️⃣ Retrieved phone number details**
-
-![Phone Info Output](https://i.ibb.co/ccmkTtNy/Encrypted-Script.png)
+```
+============================================================
+               Phone Information Lookup Tool
+============================================================
+               Author   : Amit Das
+               GitHub   : https://github.com/AmitDas4321
+============================================================
+Enter Phone Number: 9876543210
+============================================================
+Loading...
+============================================================
+Phone Number: 9876543210
+Name       : John Doe
+Country    : India
+State      : West Bengal
+Carrier    : Airtel
+============================================================
+```
 
 ## Usage 🔧
 
-Once the installation is complete, you can use the `setup.py` script to retrieve phone details.
+Once the installation is complete, you can use the `phone_info.py` script to retrieve phone details.
 
 ### 1. Running the Script ▶️
 
 To start the script, simply run:
 
 ```bash
-python3 setup.py
+python3 phone_info.py
 ```
 
 ### 2. How to Use the Script 📝
@@ -61,15 +75,21 @@ python3 setup.py
 - The script will guide you with prompts:
   - Enter a **valid 10-digit phone number** when prompted.
   - The tool will display the **name** and **location** details associated with the number.
-  - Type `exit` to quit the application.
+  - Type `exit` or `Ctrl + C` to quit the application.
 
 ### 3. Example 💡
 
 For example, if you enter `9876543210`, the tool will display:
-- **Name**: John Doe
-- **Country**: India
-- **State**: West Bengal
-- **Carrier**: Airtel
+
+```
+============================================================
+Phone Number: 9876543210
+Name       : John Doe
+Country    : India
+State      : West Bengal
+Carrier    : Airtel
+============================================================
+```
 
 ## Features ✨
 
